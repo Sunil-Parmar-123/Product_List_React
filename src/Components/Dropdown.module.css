@@ -1,0 +1,17 @@
+.container {
+    width: 30%;
+    height: 40px;
+    display: inline-block;
+    border: 2px solid green;
+    border-radius: 4px;
+    margin-right: 2%;
+}
+.container select {
+    width: 100%;
+    border-radius: 4px;
+    height: 100%;
+    border:none;
+    outline: none;
+    overflow: hidden;
+    background: none;
+}

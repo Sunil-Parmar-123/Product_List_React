@@ -1,0 +1,24 @@
+.search {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3%;
+}
+.container {
+    border: 2px solid green;
+    border-radius: 4px;
+    margin-left : 2%;
+    display: inline-block;
+    width: 30%;
+    height: 40px;
+  }
+  .container input {
+    border:none;
+    outline: none;
+    width: 90%;
+    height: 98%;
+    margin-left: 1%;
+    margin-right: 0%;
+    font-weight: 900;
+    background: none;
+    cursor: pointer;
+  }
